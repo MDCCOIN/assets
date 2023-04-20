@@ -1,0 +1,32 @@
+{
+    "name": "MODERN COIN",
+    "website": "https://www.bnbchain.world/en/smartChain",
+    "description": "Modern Coin Runner is a revolutionary play-to-earn game that will be built on the MDC token with upgradable NFTs.",
+    "explorer": "https://bscscan.com/",
+    "research": "https://moderncoin.live/index.html",
+    "symbol": "MDC",
+    "type": "token",
+    "decimals": 18,
+    "status": "active",
+    "tags": [
+        "staking-native"
+    ],
+    "links": [
+        {
+            "name": "github",
+            "url": "https://github.com/MDCCOIN"
+        },
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/BNBCHAIN"
+        },
+        {
+            "name": "reddit",
+            "url": "https://www.reddit.com/u/ModernCoin_MDC?utm_medium=android_app&utm_source=share"
+        },
+        {
+            "name": "modern coin",
+            "url": "https://moderncoin.live/index.html"
+        }
+    ]
+}
